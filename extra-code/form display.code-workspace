@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "form display",
+			"path": "../../../../OneDrive/Desktop/form display"
+		},
+		{
+			"name": "mediplus-lite",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mediplus-lite"
+	}
+}
